@@ -49,7 +49,7 @@ and root permissions.
 
 ![](img/untitled-1_20260903144339539.png)
 
-[](img/Selection_002.png)
+![](img/Selection_002.png)
 
 ## Root Cause
 
