@@ -49,6 +49,8 @@ and root permissions.
 
 ![](img/untitled-1_20260903144339539.png)
 
+[](img/Selection_002.png)
+
 ## Root Cause
 
 As observed in the decompiled `/cgi-bin/device-management-utilities-internet.cgi` CGI script,
